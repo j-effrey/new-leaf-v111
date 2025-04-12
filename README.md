@@ -13,7 +13,8 @@ Repacked v111 MapleStory private server (based on Enviction/Tera-v111)
 - Java 19
 - MySQL 5.7
 - IntelliJ
-- MapleStory v111 source (the attached .rar will have this)
+- MapleStory v111 source (see next point)
+- https://www.dropbox.com/scl/fi/fd6u7pwuztbqxxskdx5kf/v111.rar?rlkey=y1gctgrw48qxbymgh6innfda0&st=ipkkab6o&dl=0
 
 ### Steps:
  1. Create a new directory for your private server
